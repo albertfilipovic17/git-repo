@@ -1,1 +1,1 @@
-Detta är version B
+Detta är version A och version B
